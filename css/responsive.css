@@ -1,0 +1,5 @@
+@media screen and (max-width: 1415px) {
+    .main-container .form-container{
+        max-width: 60rem;
+    }
+}
